@@ -121,3 +121,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .vscode
+
+firebaseConfig.json
